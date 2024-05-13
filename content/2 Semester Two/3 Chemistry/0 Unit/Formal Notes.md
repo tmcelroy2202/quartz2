@@ -1,3 +1,7 @@
+# My Formal Notes have moved! See:
+[[Formal Notes.excalidraw]]
+or, if you are viewing this from quartz ( on my website ), then open this in a new tab. you can zoom in and out with ctrl + and ctrl -  :![[Formal Notes.excalidraw.svg]]
+
 
 | Questions/ Vocab, etc. | Notes: What is Matter? |
 | ---- | ---- |
@@ -26,58 +30,53 @@ SECTION 2: Measurement & Scientific Notation
 |---|
 |Essential Question:|
 
-  
 
-|   |   |
-|---|---|
-|Questions/ Vocab, etc.|Notes<br><br>![](https://lh7-us.googleusercontent.com/4tjJ95Mk-S03HWBBRcBbW-IHOd768HyfqCZ2ZLhYoQ_Nsz_0HrUPQ96vd3OQ2Trr-oxMiuV7y_Z10uy8i8GdepTWN-zcwLMHOCbF1GEGW9VknHO4o9hvnbGFUSc5R69NrC0EUQnH9SFEjqLGvz5kvbs)|
-||![](https://lh7-us.googleusercontent.com/mWJ5ET7LbnlA-jn9hY1s_m63ZAmNXvUHVO5JnALqqVKUOstZWaz7j46cfF9u3_qlbxc2QkTE61oQGqlzmfmpD3sBWmqaJV9hBYRwXsS_tu9_moKUpPQ6Oz1C0bwQ7H33H2SWiKVHKQqPO5AEWaRS4Ag)<br><br>Example: Measure the length of the following graduated cylinder. The volume of the liquid in the figure to the right is : ___________ml<br><br>  <br><br>![](https://lh7-us.googleusercontent.com/w2ERRnFcr6xR4o-xd03pHkzBEcL-ueg1gNNtxB6GVNPosUj05izUBwlZvXP7_c5bk71qgImEvnMNDX5FjVw8xbkopV3xe7nDRzDAri1XAov-X71vrH7dNsRL7ZEFweO-F6iVMY3LB2ndGrWfdq3joBc)  _______mL           ![](https://lh7-us.googleusercontent.com/vQtI3iNI7PczWfAqA1OY2XQLauMevHXwEQF5aJYfC6sftOlpgrgOmKpqa1pb14125w4aLgwjY2i3IVNgjEHHnjb8GqjP9e5A60WC0qyaEOKsdI9klqfW9mXbu3PudJz2A7IiohG6jAKFCuKVw93xdtM)______mL<br><br>![](https://lh7-us.googleusercontent.com/PQYtygaTnbh0XCWz13ZjW5ZRd6MxWcxcPhiQ7dtf6cuvjayx5q_3kq0tEi4uIyJDVf3S3BH79vedH1kGcJl1trwiRDTB23jLJKuwNFWO4XXvojd-CIX-5et9Eors12mJCBQgMr1bKbN0fdspU0GHUy0)|
+
 
   
 
-|   |   |
-|---|---|
-||![](https://lh7-us.googleusercontent.com/zb_k-NyR6QZ-f_hXx4Lh2gbuBgvflIh-6BwObL6o6zqZNFu4xBIlu8VidY7d5kV2VbJm-r5fsozrkTA0hToAe7u3_1vWymxsSAi5fleV1Vr5y2SlPbmex4LuetThHVeAkfffmZGvWg7aS7KD8tBnE80)<br><br>  <br>![](https://lh7-us.googleusercontent.com/FAzUYzwz9j68FaptswOMLq_IZv4RqNI4Er7nD3pB2_NC8r43TjCwRFFKwE5UGEJSeKvm5QNAInZazjHnFizx5vFOw4nv1-HTg4u37qidjsFDQJ5QiM_M7eK4eKrGodDvOasclXtGYZJ4dKySXCUfbO0)<br><br>Example: YOU TRY ! Measure the temperature on the thermometer B. <br><br>_____________° C  <br><br>  <br>  <br>  <br>  <br><br>BALANCE: Always read exactly what you see on the balance.  There is no need to estimate the last digit.<br><br>  <br>  <br>  <br>  <br><br>![](https://lh7-us.googleusercontent.com/yPw9bJEi25P3EW9G3iTL1_2-9Avl7sP3TbIGvV22pxRQDp03ppO-3UuGSc2gIhPS6qCasfp3QNPvEUTyoDT_3tAYLgUB0sv-HkQw-T6P1Xg_0eeRoXRS-Yu3KP7it9e3NjKlsIhtZ7NXu2_WggLvQDo)<br><br>  <br><br>Write the following numbers in scientific notation.<br><br>  <br><br>12457.656 m  ___________                0.000065243  g    ___________ <br><br>128.90  g        ___________              0.0000007532  m ___________ <br><br>![](https://lh7-us.googleusercontent.com/kif6QjR_xFIPXg3rEq9tRvL22jiN9i0GYkqDqeucB1ULp7sjULKGm9IwfP-5R7N3ZaJp0ydERGQG8I8167b9UdGkxaT_Iu6ulj7ZR8fvmBFrIp4GiAUiIhky8I8Yxs4OD7o4c5O1u_IjCiAH5wSzNPw)<br><br>1.37 x104 m   ___________                       2.875 x102 g  ___________ <br><br>8.755 x10-5 g ___________                      7.005 x10-3 m___________                                <br><br>![](https://lh7-us.googleusercontent.com/OOFldu0DjkB3klZ1amOc-vT8rVxN29OyT8cxWcVlIxO0LhK7ZlUvDJngN9cEUlsec1B55yB9vra-EKEftXuzRzfgDmI5zft9n-98biQ4cWaCqtv9uqrv0Pxd3RMJ9Mm390nC6PKHoLf6vOHQTmAZTm4)<br><br>![](https://lh7-us.googleusercontent.com/Fr7u8KSdza22KKBFRn2H8bBD0IRRVcSoqHYXMp5zFD1dfHFbHy6V3xd1jsxz0grgPXlvoJLP_TCV8nXRsTMnd1iUYYxJ3OJ-R6WSt7pSG0NTi0OavEp2NUmK1xrx1srPfuUx0M8Ox2hboz8lelKymU0)<br><br>[1]  0.0007650 g ___________     [4] 1.34 ´ 10-3 g ___________<br><br>  <br><br>[2]  120009.2 m ___________     [5] 3.987 ´ 105  g ___________<br><br>  <br><br>[3]  239087.54 mL     __________<br><br>![](https://lh7-us.googleusercontent.com/ScK9-HRI4W-Odz541vTVyfn6KsmRfW7HF9JGOMCLLAWJyG5ka_0LRZdhsZ7M8J2bwreJ58-mf-D_iAsi6URJq9Oqlf-VOalU485Q_7QteUPfoKB3P6q9S6Y7Bt8_rBgWgSN6a-fBDDjOwSkrP7QPwX8)<br><br>Practice: Multiply 6.0 x 105 times 4.0 x 103 on your calculator.           Answer:_________________|
+| Questions/ Vocab, etc. | Notes<br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                        | ![[Drawing 2024-01-30 10.05.30.excalidraw.svg]]<br>Example: Measure the length of the following graduated cylinder. The volume of the liquid in the figure to the right is : ___________ml<br><br>  <br><br>![](https://lh7-us.googleusercontent.com/w2ERRnFcr6xR4o-xd03pHkzBEcL-ueg1gNNtxB6GVNPosUj05izUBwlZvXP7_c5bk71qgImEvnMNDX5FjVw8xbkopV3xe7nDRzDAri1XAov-X71vrH7dNsRL7ZEFweO-F6iVMY3LB2ndGrWfdq3joBc)  11.0mL           ![](https://lh7-us.googleusercontent.com/vQtI3iNI7PczWfAqA1OY2XQLauMevHXwEQF5aJYfC6sftOlpgrgOmKpqa1pb14125w4aLgwjY2i3IVNgjEHHnjb8GqjP9e5A60WC0qyaEOKsdI9klqfW9mXbu3PudJz2A7IiohG6jAKFCuKVw93xdtM)_12.5_mL<br><br>With a ruler estimate too<br>![](https://lh7-us.googleusercontent.com/PQYtygaTnbh0XCWz13ZjW5ZRd6MxWcxcPhiQ7dtf6cuvjayx5q_3kq0tEi4uIyJDVf3S3BH79vedH1kGcJl1trwiRDTB23jLJKuwNFWO4XXvojd-CIX-5et9Eors12mJCBQgMr1bKbN0fdspU0GHUy0)<br><br>a ) 1.3<br>b ) 1.25 |
+|                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
-  
+  ruler you also estimate one place beyond where you are. 
 
-|   |
-|---|
-|Summary:|
+|  | <br>![[Drawing 2024-01-30 11.08.51.excalidraw.svg]]<br>  <br>![](https://lh7-us.googleusercontent.com/FAzUYzwz9j68FaptswOMLq_IZv4RqNI4Er7nD3pB2_NC8r43TjCwRFFKwE5UGEJSeKvm5QNAInZazjHnFizx5vFOw4nv1-HTg4u37qidjsFDQJ5QiM_M7eK4eKrGodDvOasclXtGYZJ4dKySXCUfbO0)<br><br>Example: YOU TRY ! Measure the temperature on the thermometer B. <br>29.25 for that thermometer <br>_____________° C  <br><br>  <br>  <br>  <br>  <br><br>BALANCE: Always read exactly what you see on the balance.  There is no need to estimate the last digit.<br><br>  <br>  <br>  <br>  <br><br>![](https://lh7-us.googleusercontent.com/yPw9bJEi25P3EW9G3iTL1_2-9Avl7sP3TbIGvV22pxRQDp03ppO-3UuGSc2gIhPS6qCasfp3QNPvEUTyoDT_3tAYLgUB0sv-HkQw-T6P1Xg_0eeRoXRS-Yu3KP7it9e3NjKlsIhtZ7NXu2_WggLvQDo)<br><br> just a way to write big numbers without all the zeros. calculator can do it for you. Uses powers of 10 to shorten the writing of a number. If you have a number smaller than .001 or bigger than 1000 put it in scientific notation. Decimal point behind the first non zero number. <br> take 300000. Move decimal point so its 3.00000. The power of 10 is the number of times the decimal point moved. so we moved 5 times for this so its 3 \* 10^5. If its a number thats < 1 it has a negative exponent. If its a number > 1 it has a positive exponent. <br> given number 12457.656 <br> 1.2457656 <br> 1.2457656 \* 10^4 <br><br>Write the following numbers in scientific notation.<br><br>  <br><br>12457.656 m  1.2457656 \* 10^4               0.000065243  g   6.5423 * 10^-6 <br><br>128.90  g        1.289 * 10^2              0.0000007532  m 7.532 \* 10^-7<br><br>![](https://lh7-us.googleusercontent.com/kif6QjR_xFIPXg3rEq9tRvL22jiN9i0GYkqDqeucB1ULp7sjULKGm9IwfP-5R7N3ZaJp0ydERGQG8I8167b9UdGkxaT_Iu6ulj7ZR8fvmBFrIp4GiAUiIhky8I8Yxs4OD7o4c5O1u_IjCiAH5wSzNPw)<br><br>1.37 /10^4 m   13700.00                       2.875 x10^2 g  287.5  <br><br>8.755 x10^-5 g 0.00008755                      7.005 x10^-3 m 0.007005                                <br><br>![](https://lh7-us.googleusercontent.com/OOFldu0DjkB3klZ1amOc-vT8rVxN29OyT8cxWcVlIxO0LhK7ZlUvDJngN9cEUlsec1B55yB9vra-EKEftXuzRzfgDmI5zft9n-98biQ4cWaCqtv9uqrv0Pxd3RMJ9Mm390nC6PKHoLf6vOHQTmAZTm4)<br><br>![](https://lh7-us.googleusercontent.com/Fr7u8KSdza22KKBFRn2H8bBD0IRRVcSoqHYXMp5zFD1dfHFbHy6V3xd1jsxz0grgPXlvoJLP_TCV8nXRsTMnd1iUYYxJ3OJ-R6WSt7pSG0NTi0OavEp2NUmK1xrx1srPfuUx0M8Ox2hboz8lelKymU0)<br><br>[1]  0.0007650 g 7.650 * 10^-4     [4] 1.34 \* 10^-3 g 0.00134 <br><br>  <br><br>[2]  120009.2 m 1.200092 \* 10^5    [5] 3.987 \* 10^5  g 398700 <br><br>  <br><br>[3]  239087.54 mL     2.3908754 \* 10^5 <br><br>![](https://lh7-us.googleusercontent.com/ScK9-HRI4W-Odz541vTVyfn6KsmRfW7HF9JGOMCLLAWJyG5ka_0LRZdhsZ7M8J2bwreJ58-mf-D_iAsi6URJq9Oqlf-VOalU485Q_7QteUPfoKB3P6q9S6Y7Bt8_rBgWgSN6a-fBDDjOwSkrP7QPwX8)<br><br>Practice: Multiply 6.0 x 10^5 times 4.0 x 10^3 on your calculator.           Answer: 2.4\* 10E9 |
+| ---- | ---- |
 
-  
-  
-  
-  
-  
-  
-  
+## Entering Scientific Notation
+ti-30x:
+6.0 * 10^5
+6.0 - > 2nd + ee ( this is the button labeled X^-1 )- > 5 
 
-Section 3: Significant Digits, Rounding & Calculating
+swithching to scientific notation :
+2nd - > sci/eng ( drg key ) - > sci 
 
-|   |
-|---|
-|Essential Question:|
+to do a negative exponent, use the negative in the bottom right, not the subtract button
 
-  
+ti-84 
+6.0 * 10^5
+6.0 - > 2nd + ee ( the comma button ) - > 5
 
-|   |   |
-|---|---|
-|Questions/ Vocab, etc.|Notes|
-||![](https://lh7-us.googleusercontent.com/nf_TUz1lNaGAQx3LRDW8hvS6GBqu-bUNlwDsEjl2zmiwc3QBx4OxngvGt0bazCE445mncDPzrrvIjnEulGIMpYTHLc7HjwjBbsboZGgzxb4Um0rpvomK5yPqKYMQDRKeqwQPzK56lc9JOePa9g3qNao)<br><br>Example: Round 4682 to the hundred’s place     _________________<br><br>![](https://lh7-us.googleusercontent.com/jbJeslgzybtwv7Ef2FcI0QGaTJLOX1R_jZ468H3URpnBZA8ifSOKNEZ9L0g_w5C64kEneA8q_waXk9PrvnDWhJ_wUnspFPjBT3AC4311e39plhVHcC659B6yOD07ke3uswcGuXdFk4GNi-A2gUSFaDM)|
+switching to scientific notation 
+mode - > sci ( arrow to the right ) - > enter - > clear   
 
-Section 4: Metric System & Dimensional Analysis
+to do a negative exponent, use the negative in the bottom right, not the subtract button
+# Section 3: Significant Digits, Rounding & Calculating
 
-|   |
-|---|
-|Essential Question:|
+## Essential Question
 
-  
+| Questions/ Vocab, etc. | Notes |
+| ---- | ---- |
+|  | <br>![[Drawing 2024-01-31 11.12.09.excalidraw.svg]]<br><br>Example: Round 4682 to the hundred’s place    <br>4700<br><br>![[Drawing 2024-01-31 11.14.39.excalidraw.svg]]<br><br> |
+# Section 4: Metric System & Dimensional Analysis
 
-|   |   |
-|---|---|
-|Questions/ Vocab, etc.|Notes|
-||![](https://lh7-us.googleusercontent.com/5tramCKvtbh0ojT0PxoFPlwRfPhrijx26bUMQJv4SdLylcIMB-dOIbT2g_wPO3Gfl6HJTArbWvmKAX7u7rPXSjFSwlE7At3XpPsgBETeYIlHpj72pf1NbyFJuWwAI-8b7lE4C9iHH8BAgDlEAZRYoqQ)<br><br>![](https://lh7-us.googleusercontent.com/5l3mYiPax2Kk7a2439ewcX14sf3-agAc4OPXIAw9s-gLhssGG61_boqYMs54Oyq0OrvkLTTA4miSZH2FCaG87COGl3Xuz0TOX8hbBBvBASOqMOaae9NZdYpdQVwTVXlr5OcdFKFBLQ_BMXDDwOvT5ew)<br><br>![](https://lh7-us.googleusercontent.com/_ZSF1MAR9zcDCM3UKkfiYEy0yI52Az8nZYIOXxiF5FCX2OE3r_ej_n6sec7SHdETN1uWd6RuXXypG-r9ZlXfvQ4iA1lIjfX2pN3ebn09C3cyNZsxULbMS6g8wmgUB6T5CRpk36icR7ilL1Y2_E0hjz4)<br><br>![](https://lh7-us.googleusercontent.com/YLwozFjEiqBb6l5Md-8C5am90eZBitYza0_ZO8FUWrHuoJwY_YdtgVY-ukNideKWwTprRI3JNu083l8hs2VHs3zcNQFOxpKpm_HItjzgVtP-I7Bl1go3tK31w5xTZZddyqS5yefUzKe-298hwIfoNL4)<br><br>[1] 4 km = ______________m<br><br>![](https://lh7-us.googleusercontent.com/ksL3F4yHUrbb270FWP7-TaTW4mwD5sJLY8w62oamzaqS1eyhEkq-Oa_Jc10Ycdh9tjlJiBh5BKnMiLJ3P9eEcFUrQLKViLg2EtittRFepWvb4XC2sHpPmwL0IaOBZFKhIuIaoOIOnpZZ7zIhibvvNqM)<br><br>[1] Convert 15 cl into ml     _____________  [3]Convert 1.6 Dag into dg  ____________<br><br>  <br><br>[2] Convert 6000 mm into Km ____________  [4]  Convert 3.4 nm into m  ____________<br><br>![](https://lh7-us.googleusercontent.com/oUQhowb_7GdqjEA079j_bEx9Ht39u6Gj-gkKykLzm3lqj5J-_D6povrOqLoPfvsCmKVwpJwrcxDwwFO8Xl82jwHCCYgR4xmpf6sOczTrfqQ2FPMArZ01p013hWSXM3NTtDwNyde9PQdjs7Sq4Hu9rpQ)|
+## Essential Question
+
+| Questions/ Vocab, etc. | Notes |
+| ---- | ---- |
+|  | ![](https://lh7-us.googleusercontent.com/5tramCKvtbh0ojT0PxoFPlwRfPhrijx26bUMQJv4SdLylcIMB-dOIbT2g_wPO3Gfl6HJTArbWvmKAX7u7rPXSjFSwlE7At3XpPsgBETeYIlHpj72pf1NbyFJuWwAI-8b7lE4C9iHH8BAgDlEAZRYoqQ)<br><br>![](https://lh7-us.googleusercontent.com/5l3mYiPax2Kk7a2439ewcX14sf3-agAc4OPXIAw9s-gLhssGG61_boqYMs54Oyq0OrvkLTTA4miSZH2FCaG87COGl3Xuz0TOX8hbBBvBASOqMOaae9NZdYpdQVwTVXlr5OcdFKFBLQ_BMXDDwOvT5ew)<br><br>![](https://lh7-us.googleusercontent.com/_ZSF1MAR9zcDCM3UKkfiYEy0yI52Az8nZYIOXxiF5FCX2OE3r_ej_n6sec7SHdETN1uWd6RuXXypG-r9ZlXfvQ4iA1lIjfX2pN3ebn09C3cyNZsxULbMS6g8wmgUB6T5CRpk36icR7ilL1Y2_E0hjz4)<br><br>![](https://lh7-us.googleusercontent.com/YLwozFjEiqBb6l5Md-8C5am90eZBitYza0_ZO8FUWrHuoJwY_YdtgVY-ukNideKWwTprRI3JNu083l8hs2VHs3zcNQFOxpKpm_HItjzgVtP-I7Bl1go3tK31w5xTZZddyqS5yefUzKe-298hwIfoNL4)<br><br>[1] 4 km = ______________m<br><br>![](https://lh7-us.googleusercontent.com/ksL3F4yHUrbb270FWP7-TaTW4mwD5sJLY8w62oamzaqS1eyhEkq-Oa_Jc10Ycdh9tjlJiBh5BKnMiLJ3P9eEcFUrQLKViLg2EtittRFepWvb4XC2sHpPmwL0IaOBZFKhIuIaoOIOnpZZ7zIhibvvNqM)<br><br>[1] Convert 15 cl into ml     _____________  [3]Convert 1.6 Dag into dg  ____________<br><br>  <br><br>[2] Convert 6000 mm into Km ____________  [4]  Convert 3.4 nm into m  ____________<br><br>![](https://lh7-us.googleusercontent.com/oUQhowb_7GdqjEA079j_bEx9Ht39u6Gj-gkKykLzm3lqj5J-_D6povrOqLoPfvsCmKVwpJwrcxDwwFO8Xl82jwHCCYgR4xmpf6sOczTrfqQ2FPMArZ01p013hWSXM3NTtDwNyde9PQdjs7Sq4Hu9rpQ) |
 
   
 

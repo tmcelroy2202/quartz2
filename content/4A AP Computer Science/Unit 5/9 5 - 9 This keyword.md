@@ -1,8 +1,10 @@
 This refers to the _ ___ object of the class 
+```java
 int length;
 public Rock (int length ) {
 	this.length = length;
 }
+```
 
 Shadowing is when a variable with more specific scope takes precedence over a variable with more general scope. 
 

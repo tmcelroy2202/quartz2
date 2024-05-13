@@ -3,9 +3,9 @@ comments allow for us to document what our programs do so others can easily use 
 there are 3 types of comments
 // - single line
 /*  multi
-line _*/
+line \*/
 and
-/** java doc _*/
+/** java doc \*/
 
 make sure to include // before writing a single line comment 
 multi line comments let us write more comment lines for longer comments that need more explanation 
@@ -26,7 +26,7 @@ javadoc format:
 
 4. Block tags
 
-_*/
+\*/
 
 javadoc for getname
 /**
@@ -36,7 +36,7 @@ Postcondition: our method returns the String name that is stored in the power ob
 
 @return name -the name of the power object 
 
-_*/
+\*/
 
 Put javadoc comments right before the method constructor or class that the comments belong to so that javadoc knows to associate those comments with those methods when generating the documentation
 

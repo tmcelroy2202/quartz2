@@ -28,3 +28,8 @@ It's relation to bluebubbles is that it supports IMessage. Relying on the beeper
 They have a cool concept, they have fully reverse engineered the protocol behind IMessage, and this means they can send IMessage natively from android. This removes a lot of the security concern with their old method, which was similar to what bluebubbles is doing, and was just a mac in some server farm logged in under your apple ID intercepting your messages. 
 
 Even though native sending is really cool, it is not cool that it does not work right now. They are trying to fix this, and they are a really cool team, but it is not acceptable for your primary method of communication with people to just drop out at random and for you to be suddenly unable to respond to messages. This may stabilize at some point, but they have really started a fight with apple and they are likely to lose it longer term. 
+
+There is now a bridge for beeper which makes it so beeper can puppeteer your bluebubbles server. This is exceedingly cool:
+	https://github.com/mautrix/imessage/tree/bluebubbles
+
+I have been using the bluebubbles beeper bridge for a while now, and it is quite nice. It is far better than the old sh-imessage bridge, and should be used by everyone. Dev of it is also really nice and helpful. 

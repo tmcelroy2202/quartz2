@@ -8,9 +8,9 @@ Things that are on this list but not checked off im just not hosting for the mom
 * [o] Quartz - 
 * [o] Bluebubbles Server - 
 * [ ] Nextcloud - 
-* [ ] Immich - 
-* [ ] VaultWarden - 
-* [ ] Paperless - 
+* [o] Immich - 
+* [o] VaultWarden - 
+* [o] Paperless - 
 * [ ] YAMS / 
    * [ ] Jellyfin - 
    * [ ] QBittorrent
@@ -22,7 +22,7 @@ Things that are on this list but not checked off im just not hosting for the mom
 # HP Desktop (4)
 * [o] VNC Server -
 * [o] Quartz - 
-* [o] VaultWarden - 
+* [ ] VaultWarden - 
 * [o] Paperless - 
 
 # Security for services
