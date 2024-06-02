@@ -47,3 +47,54 @@ I thought Qownnotes was gonna be nice. I wanted qownnotes to be nice. I just did
 
 Emacs seems like it could do what I want. It has the ability to do images, but im not locked into a gui, it has an excalidraw integration, it has the community support to do anything else I ever could want to do. But it's consistently reviewed as "heavy".
 
+
+
+
+# New Idea
+Emacs + xournalpp
+
+OR
+
+helix + xournalpp
+
+xournalpp is a pdf / image editor. 
+
+helix can do all the text writing
+
+helix can do markdown preview in a web browser  through mdpls
+if i do not want to use mdpls, here are the options im aware of:
+1. joplin
+2. zettlr
+3. formiko
+4. marktext
+5. pandoc conversion
+
+for chemistry, what would be required is:
+download cfu pdf 
+fixtp does the following:
+	teleports the cfu pdf into the right folder 
+	makes a copy of it which is cfupdf.bak
+	converts the cfu pdf to a png with
+	convert -density 300 l1cfupdf.pdf -append out.png
+	adds a link to that png into a newly created markdown file called "L1 CFU.md"
+	maybe even a html embed would be prefered? they might be more universal. we will investigate further. 
+	opens xournalpp on the pdf 
+
+if i need to see how the markdown looks then:
+
+mdprev does the following:
+	converts a markdown file to html using pandoc 
+	opens that html in a browser
+	IMAGES NEED TO WORK 
+
+Advantages of this setup:
+* Everything is free and libre and open source
+* would remove a lot of the clog from my quartz instance, as the excalidraw drawings would not show, and of course pdf files do not show in quartz, so it would actually just be what the people wanted to see.
+
+Disadvantages:
+* Certainly not as easy as obsidian
+* Xournal is not the most fun to use, certainly less fun than excalidraw
+	* Excalidraw can NOT still be used, as excalidraw cannot import pdfs in the web browser version
+		* I could still use excalidraw if I converted the pdf to an image, and then used the excalidraw save to overwrite the image 
+		* Saving these would be much more annoying. I think it could be done, and I could have it automatically move the files over, but it would be very hacky and probably not very good. 
+	* Alternatives 

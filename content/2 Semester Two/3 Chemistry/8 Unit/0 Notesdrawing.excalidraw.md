@@ -311,17 +311,17 @@ deltaH 140
 14350+16700+113000 = 144050 ^iXTtumHe
 
 # Embedded files
-732030c5b2df6d05c469b631b49bd58f91c4ed0b: [[0 Notespdf.pdf#page=1]]
-8901fc697c658b4fb922816c9d32070f3c67c5f7: [[0 Notespdf.pdf#page=2]]
-5084fcc158322a7d86bb1c8d08680677738150b8: [[0 Notespdf.pdf#page=3]]
-c971a945821857be9304c9b1a446399dd34a402e: [[0 Notespdf.pdf#page=4]]
-e5f2165b15be879a5add8c6ca9a6df3b26354a51: [[0 Notespdf.pdf#page=5]]
-006fd479e63372d3eebedfe2cb5324858c983011: [[0 Notespdf.pdf#page=6]]
-889bcda7f10d411b586a771aa91b4a5f463bf4c3: [[0 Notespdf.pdf#page=7]]
-5b6c6b2e49e542c1cf465dbe884381fe91d64374: [[0 Notespdf.pdf#page=8]]
-3b330339547e398be39f3833934ce1161e8a3796: [[0 Notespdf.pdf#page=9]]
-e51c5abcb3a3f489679db9dbc5dea24c4885ab23: [[0 Notespdf.pdf#page=10]]
-40d56d47146be10030b58566297b682ba3d823c5: [[0 Notespdf.pdf#page=11]]
+732030c5b2df6d05c469b631b49bd58f91c4ed0b: [[2 Semester Two/3 Chemistry/8 Unit/0 Notespdf.pdf#page=1]]
+8901fc697c658b4fb922816c9d32070f3c67c5f7: [[2 Semester Two/3 Chemistry/8 Unit/0 Notespdf.pdf#page=2]]
+5084fcc158322a7d86bb1c8d08680677738150b8: [[2 Semester Two/3 Chemistry/8 Unit/0 Notespdf.pdf#page=3]]
+c971a945821857be9304c9b1a446399dd34a402e: [[2 Semester Two/3 Chemistry/8 Unit/0 Notespdf.pdf#page=4]]
+e5f2165b15be879a5add8c6ca9a6df3b26354a51: [[2 Semester Two/3 Chemistry/8 Unit/0 Notespdf.pdf#page=5]]
+006fd479e63372d3eebedfe2cb5324858c983011: [[2 Semester Two/3 Chemistry/8 Unit/0 Notespdf.pdf#page=6]]
+889bcda7f10d411b586a771aa91b4a5f463bf4c3: [[2 Semester Two/3 Chemistry/8 Unit/0 Notespdf.pdf#page=7]]
+5b6c6b2e49e542c1cf465dbe884381fe91d64374: [[2 Semester Two/3 Chemistry/8 Unit/0 Notespdf.pdf#page=8]]
+3b330339547e398be39f3833934ce1161e8a3796: [[2 Semester Two/3 Chemistry/8 Unit/0 Notespdf.pdf#page=9]]
+e51c5abcb3a3f489679db9dbc5dea24c4885ab23: [[2 Semester Two/3 Chemistry/8 Unit/0 Notespdf.pdf#page=10]]
+40d56d47146be10030b58566297b682ba3d823c5: [[2 Semester Two/3 Chemistry/8 Unit/0 Notespdf.pdf#page=11]]
 
 %%
 # Drawing
